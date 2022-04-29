@@ -26,6 +26,10 @@ NA
 ##Resources
 undefined
 
+##Images
+![Employee Tracker](https://user-images.githubusercontent.com/91514897/165877151-5b56251c-9375-4fe9-a90b-251e95f6c927.PNG)
+
+
 ##Contributing
 This will allow you to keep track of employees with little effort.
 
